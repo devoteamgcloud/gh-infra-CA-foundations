@@ -1,4 +1,4 @@
-This repository is for nordnet cert poc
+This repository is for Nordnet cert poc
 Terraform –    Private CA and Certificate Issuance Config
 This configuration provisions a cross-project Certificate Authority setup in Google Cloud:
 	•	Project gouravhalder-sandbox
